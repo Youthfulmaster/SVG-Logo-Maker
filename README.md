@@ -18,6 +18,8 @@ copy the ssh and instal it like that
 ## Usage
 Execute the script by running: node index.js
 
+Use video https://screenrec.com/share/edsLwtzgov
+
 ## License
 This project is licensed under the MIT license.
 
